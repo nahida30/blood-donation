@@ -1,6 +1,6 @@
 # Blood Donation Website
 
-Live link: https://656d8bc74c31012206a8122d--startling-naiad-bd273d.netlify.app/
+Live link: https://blood-donation-f7ec4.web.app/
 
 This is the user friendly website .
 
