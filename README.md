@@ -15,3 +15,7 @@ This is the user friendly website .
 4. FlowBite
 5. MongoDb
 6. Firebase
+
+# Admin Email and Password:
+email: admin@gmail.com
+password: admin12345
